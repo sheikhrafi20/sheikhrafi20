@@ -40,6 +40,13 @@ A Python command-line assistant that understands **বাংলা + English**, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-8b5cf6?style=flat-square)
 
+## ⚡ Currently Working On
+
+- 🤖 **LISA** — planning the next step: connecting a real AI model for natural conversations
+- 🧪 Writing tests with **pytest** to keep my projects reliable
+- 🌐 Practicing **HTML, CSS and JavaScript** for web projects
+- 🛠️ Getting better at **Git and GitHub** workflows
+
 ## ⌘ GitHub Overview
 
 <div align="center">

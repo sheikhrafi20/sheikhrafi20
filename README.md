@@ -31,6 +31,15 @@ Hi, I'm **Sheikh Rafi** — an independent learner exploring technology and buil
 
 </div>
 
+## ✧ Featured Project
+
+### 🤖 [LISA — Personal AI Assistant](https://github.com/sheikhrafi20/LISA-AI)
+
+A Python command-line assistant that understands **বাংলা + English**, checks your internet connection, searches the web, and keeps local chat history. Built step by step, with an AI model planned for a future version.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Development-8b5cf6?style=flat-square)
+
 ## ⌘ GitHub Overview
 
 <div align="center">
